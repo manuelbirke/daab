@@ -1,0 +1,9 @@
+feature,importance_mean,importance_std
+lf_power,0.102044255,0.14431237
+hf_power,0.09601972,0.1357924
+lf_hf_ratio,0.013371813,0.0189106
+mean_rr,0.00532708,0.007533629
+pnn50,0.0027296776,0.003860347
+sdnn,0.0,0.0
+rmssd,0.0,0.0
+hr_mean,0.0,0.0
